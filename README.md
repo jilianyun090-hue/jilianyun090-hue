@@ -1,6 +1,6 @@
 # 极连云机场官网地址
 
-最新地址：[hyperlink.mobi](https://vip01.hyperlink.mobi/#/?code=S0nuqdNv)
+最新地址：[vip.jilianclou.com](https://vip01.hyperlink.mobi/#/?code=S0nuqdNv)
 
 ## 极连云介绍
 
