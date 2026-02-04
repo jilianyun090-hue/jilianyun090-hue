@@ -1,6 +1,6 @@
 # 极连云机场官网地址
 
-最新地址：(https://vip01.hyperlink.mobi/#/?code=S0nuqdNv)
+最新地址：(https://5844993lb01.jlcvipaff.cc/#/register?code=ym9WRY4K))
 
 ## 极连云介绍
 
@@ -18,7 +18,6 @@
 
 现在下单立享 全套餐开业八折酬宾，在原有套餐折扣基础上再减20%
 
-活动时间：10月18至11月18日
 
 领取方式：结算页输入优惠码 JLY888 即可生效
 
