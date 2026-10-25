@@ -1,37 +1,23 @@
-# 极连云机场官网地址
+# 机场推荐 · 免费节点 · 客户端教程 · 翻墙科普 · 梯子节点精品聚合
 
-最新地址：(https://5844993lb01.jlcvipaff.cc/#/register?code=ym9WRY4K))
+![更新日期](https://img.shields.io/badge/更新-2026--10--26-00e676) ![收录机场](https://img.shields.io/badge/收录机场-19%20家-00b0ff) ![官网直达](https://img.shields.io/badge/主站-clash--jichang.com-00e676) [![Telegram](https://img.shields.io/badge/Telegram-%40JLYCloud-26A5E4?logo=telegram&logoColor=white)](https://t.me/JLYCloud)
 
-## 极连云介绍
+![2026 翻墙机场精品聚合](images/banner.svg)
 
-极连云机场， IPLC 专线，Trojan / Reality 协议，多地 BGP 中转优化。
+这里汇总 [clash-jichang.com](https://clash-jichang.com/) 与 GitHub 仓库里最值得收藏的网络节点、梯子专线、Clash/小火箭配置指南与翻墙科普。数据每天由 GitHub Actions 自动同步更新。
 
-支持解锁各大流媒体，解锁 ChatGPT、Gemini 等 AI，解锁 TikTok，可满足跨境电商、直播运营、远程办公等多场景需求。
+---
 
-套餐无倍率、不限速、不限制设备数量，支持支付宝、微信、USDT 支付，价格透明实在，是专线路线中性价比较高的选择。
+### 📦 GitHub 仓库导航
 
-极连云提供 7×24 小时多渠道售后支持，多人客服团队轮流值班，海外技术团队实时维护巡检，节点状态异常会自动切换。
+| 仓库名称 | 描述 | 来源 | 直达 |
+| :--- | :--- | :---: | :---: |
+| 🚀 **[2026-jichang-tuijian](../../2026-jichang-tuijian)** | 2026 梯子推荐与机场清单：稳定专线 / 平价月付 / ChatGPT纯净节点 | 梯子站 | [查看清单](../../2026-jichang-tuijian) |
+| ⚡ **[free-nodes](../../free-nodes)** | 每日免费节点测速与整理（支持 Clash / Shadowrocket 订阅导入） | 免费聚合 | [查看节点](../../free-nodes) |
+| 📱 **[client-tutorials](../../client-tutorials)** | 全平台客户端（Clash Verge、小火箭、v2rayN）下载与新手导入指南 | 教程文档 | [查看教程](../../client-tutorials) |
 
-## 极连云优惠码
+---
 
-开业酬宾｜全场 8 折 限时福利已开启！
-
-现在下单立享 全套餐开业八折酬宾，在原有套餐折扣基础上再减20%
-
-
-领取方式：结算页输入优惠码 JLY888 即可生效
-
-## 极连云价格
-
-轻量体验：60G/月　　96元/年
-
-基础套餐：100G/月　15.5 元/月　41.5 元/季　80.5 元/半年　152.5 元/年
-
-进阶套餐：200G/月　30.5 元/月　84.5 元/季　161.5 元/半年　305.5 元/年
-
-旗舰套餐：500G/月　65.5 元/月　185.5 元/季　351.5 元/半年　663.5 元/年
-
-尊享套餐：1000G/月　120.5 元/月　342.5 元/季　648.5 元/半年　1224.5 元/年
-
-不限时套餐：600G　首次 399 元，续费 9 折
-
+### 💡 核心站点导航
+- 🏠 **主站官网：** [clash-jichang.com](https://clash-jichang.com/)
+- 📣 **TG 官方交流群：** [t.me/JLYCloud](https://t.me/JLYCloud)
