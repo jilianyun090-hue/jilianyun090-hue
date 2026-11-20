@@ -18,14 +18,47 @@
 
 | 仓库名称 | 内容特色与优势 | 来源 | Stars |
 | :--- | :--- | :---: | :---: |
-| 🌟 **[VPN-2026](https://github.com/jilianyun090-hue/VPN-2026)** | 2026 机场推荐清单老牌 / 性价比 / 稳定 / 高端四类整理套餐价格、优惠码、实际全测和已跑路站点同步 | 机场查 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/VPN-2026?style=social) |
-| ⚡ **[free-nodes](https://github.com/jilianyun090-hue/free-nodes)** | 每日免费节点每天 0 点自动更新 Clash / v2ray / 小火箭订阅一键导入 | 机场查 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/free-nodes?style=social) |
-| 🏠 **[clashmac.vip](https://github.com/jilianyun090-hue/clashmac.vip)** | Clash Mac 客户端下载指南、使用教程、配置文件导入详解 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clashmac.vip?style=social) |
-| 📱 **[clash-jichang](https://github.com/jilianyun090-hue/clash-jichang)** | 星岛梦机场怎么样套餐价格、节点测速、解锁与线路评测 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-jichang?style=social) |
-| 🎯 **[jichangdaquan](https://github.com/jilianyun090-hue/jichangdaquan)** | 全网最全的机场客户端收集 / 下载 / 图文教程 / 客户端科普与快讯 90 多款按平台分类每日同步 | 机场探 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/jichangdaquan?style=social) |
-| 🔧 **[tizibest](https://github.com/jilianyun090-hue/tizibest)** | 翻墙科普攻略原理、线路、故障排查、速坏与 AI 工具每日同步栏目 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tizibest?style=social) |
-| 💻 **[clash-vpns.my](https://github.com/jilianyun090-hue/clash-vpns.my)** | 全网最全最新的机场跑路预警名单每日更新下单前先查这家是否跑路 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-vpns.my?style=social) |
-| 📊 **[tuijichang](https://github.com/jilianyun090-hue/tuijichang)** | 机场科普与快讯机场杂谈、协议与内核科普、客户端版本动态每日同步 | 机场帮 + 机场探 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tuijichang?style=social) |
+| 🌟 **[VPN-2026](https://github.com/jilianyun090-hue/VPN-2026)** | 精选2026年度高品质机场服务，按性价比、稳定性、高端专线分类推荐，包含详细套餐对比、实测速度报告及风险提示 | 机场查 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/VPN-2026?style=social) |
+| ⚡ **[free-nodes](https://github.com/jilianyun090-hue/free-nodes)** | 自动化采集与测速的免费节点库，支持Clash/V2Ray/Shadowrocket一键订阅，每日0点自动更新可用节点 | 机场查 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/free-nodes?style=social) |
+| 🏠 **[clashmac.vip](https://github.com/jilianyun090-hue/clashmac.vip)** | Mac平台Clash系客户端完整使用手册，涵盖下载安装、订阅配置、规则设置等全流程指导 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clashmac.vip?style=social) |
+| 📱 **[clash-jichang](https://github.com/jilianyun090-hue/clash-jichang)** | 主流机场服务深度评测，包括线路质量分析、解锁能力测试、实际使用体验及套餐性价比对比 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-jichang?style=social) |
+| 🎯 **[jichangdaquan](https://github.com/jilianyun090-hue/jichangdaquan)** | 跨平台代理客户端大全，收录Windows/macOS/iOS/Android全平台90+款工具及配置教程 | 机场探 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/jichangdaquan?style=social) |
+| 🔧 **[tizibest](https://github.com/jilianyun090-hue/tizibest)** | 科学上网技术百科，解析代理协议原理、网络线路知识、常见问题排查及AI工具使用技巧 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tizibest?style=social) |
+| 💻 **[clash-vpns.my](https://github.com/jilianyun090-hue/clash-vpns.my)** | 机场服务风险预警系统，实时更新已跑路/即将停服的服务商名单，帮助用户避坑 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-vpns.my?style=social) |
+| 📊 **[tuijichang](https://github.com/jilianyun090-hue/tuijichang)** | 行业资讯与技术动态追踪，包括代理协议发展、客户端版本更新、安全事件通报等内容 | 机场帮 + 机场探 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tuijichang?style=social) |
+
+---
+
+## 📱 全平台客户端教程
+
+### 🖥️ Windows 客户端
+
+| 客户端 | 特色说明 | 图文教程 |
+| :--- | :--- | :---: |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-verge-rev-icon.png" width="24"/> **Clash Verge Rev** | 目前最推荐的电脑端 Clash 内核客户端，支持中文，UI 界面简洁且功能强大，全面支持 Windows 和 macOS | [查看教程](https://clashmac.vip/2026/03/29/clash-verge-rev-tutorial/) |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/v2rayn-icon.png" width="24"/> **v2rayN** | 老牌开源 V2Ray 客户端，功能全面稳定，支持多种代理协议，适合进阶用户使用 | [查看教程](https://clashmac.vip/2026/03/29/v2rayn-v2-tutorial/) |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/flclash-icon.png" width="24"/> **FLclash** | 基于 Flutter 开发的跨平台 Clash 客户端，界面现代化，性能优秀，支持多系统 | [查看教程](https://clashmac.vip/2026/03/29/flclash-tutorial/) |
+
+### 🍎 macOS 客户端
+
+| 客户端 | 特色说明 | 图文教程 |
+| :--- | :--- | :---: |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-verge-rev-icon.png" width="24"/> **Clash Verge Rev** | Mac 平台首选 Clash 客户端，原生支持 Apple Silicon，界面美观流畅 | [查看教程](https://clashmac.vip/2026/03/29/clash-verge-rev-tutorial/) |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clashmi-icon.png" width="24"/> **ClashMi** | 轻量级 Mac Clash 客户端，资源占用低，适合日常轻度使用 | [查看教程](https://clashmac.vip/2026/03/29/clashmi-tutorial/) |
+
+### 📱 iOS 客户端
+
+| 客户端 | 特色说明 | 图文教程 |
+| :--- | :--- | :---: |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-party-icon.png" width="24"/> **Clash Party** | iOS 平台优秀的 Clash 客户端，界面友好，配置简单，支持多种订阅格式 | [查看教程](https://clashmac.vip/2026/03/29/clash-party-tutorial/) |
+
+### 🤖 安卓客户端
+
+| 客户端 | 特色说明 | 图文教程 |
+| :--- | :--- | :---: |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-meta-icon.png" width="24"/> **Clash Meta 安卓版** | 安卓平台主流 Clash 客户端，基于 Meta 内核，功能强大，规则灵活 | [查看教程](https://clashmac.vip/2026/03/29/clash-meta-android-tutorial/) |
+
+> 💡 **提示**: 所有教程均包含详细的下载链接、安装步骤、订阅配置和常见问题解决方案
 
 ---
 
