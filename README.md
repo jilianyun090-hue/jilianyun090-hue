@@ -1,6 +1,6 @@
 # 机场推荐 · 梯子节点 · 客户端教程 · 翻墙VPN · 梯子节点精品聚合
 
-![更新日期](https://img.shields.io/badge/更新-2026--11--21-00e676) ![收录机场](https://img.shields.io/badge/收录机场-19%20家-00b0ff) ![官网直达](https://img.shields.io/badge/主站-clash--jichang.com-00e676) [![Telegram](https://img.shields.io/badge/Telegram-%40JLYCloud-26A5E4?logo=telegram&logoColor=white)](https://t.me/JLYCloud)
+![更新日期](https://img.shields.io/badge/更新-2026--11--21-00e676) ![收录机场](https://img.shields.io/badge/收录机场-100+-00b0ff) ![官网直达](https://img.shields.io/badge/主站-clash--jichang.com-00e676) [![Telegram](https://img.shields.io/badge/Telegram-%40JLYCloud-26A5E4?logo=telegram&logoColor=white)](https://t.me/JLYCloud)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jilianyun090-hue&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
