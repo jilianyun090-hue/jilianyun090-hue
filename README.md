@@ -35,28 +35,28 @@
 
 | 客户端 | 特色说明 | 图文教程 |
 | :--- | :--- | :---: |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-verge-rev-icon.png" width="24"/> **Clash Verge Rev** | 目前最推荐的电脑端 Clash 内核客户端，支持中文，UI 界面简洁且功能强大，全面支持 Windows 和 macOS | [查看教程](https://clashmac.vip/2026/03/29/clash-verge-rev-tutorial/) |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/v2rayn-icon.png" width="24"/> **v2rayN** | 老牌开源 V2Ray 客户端，功能全面稳定，支持多种代理协议，适合进阶用户使用 | [查看教程](https://clashmac.vip/2026/03/29/v2rayn-v2-tutorial/) |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/flclash-icon.png" width="24"/> **FLclash** | 基于 Flutter 开发的跨平台 Clash 客户端，界面现代化，性能优秀，支持多系统 | [查看教程](https://clashmac.vip/2026/03/29/flclash-tutorial/) |
+| **Clash Verge Rev** | 目前最推荐的电脑端 Clash 内核客户端，支持中文，UI 界面简洁且功能强大，全面支持 Windows 和 macOS | [查看教程](https://clashmac.vip/2026/03/29/clash-verge-rev-tutorial/) |
+| **v2rayN** | 老牌开源 V2Ray 客户端，功能全面稳定，支持多种代理协议，适合进阶用户使用 | [查看教程](https://clashmac.vip/2026/03/29/v2rayn-v2-tutorial/) |
+| **FLclash** | 基于 Flutter 开发的跨平台 Clash 客户端，界面现代化，性能优秀，支持多系统 | [查看教程](https://clashmac.vip/2026/03/29/flclash-tutorial/) |
 
 ### 🍎 macOS 客户端
 
 | 客户端 | 特色说明 | 图文教程 |
 | :--- | :--- | :---: |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-verge-rev-icon.png" width="24"/> **Clash Verge Rev** | Mac 平台首选 Clash 客户端，原生支持 Apple Silicon，界面美观流畅 | [查看教程](https://clashmac.vip/2026/03/29/clash-verge-rev-tutorial/) |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clashmi-icon.png" width="24"/> **ClashMi** | 轻量级 Mac Clash 客户端，资源占用低，适合日常轻度使用 | [查看教程](https://clashmac.vip/2026/03/29/clashmi-tutorial/) |
+| **Clash Verge Rev** | Mac 平台首选 Clash 客户端，原生支持 Apple Silicon，界面美观流畅 | [查看教程](https://clashmac.vip/2026/03/29/clash-verge-rev-tutorial/) |
+| **ClashMi** | 轻量级 Mac Clash 客户端，资源占用低，适合日常轻度使用 | [查看教程](https://clashmac.vip/2026/03/29/clashmi-tutorial/) |
 
 ### 📱 iOS 客户端
 
 | 客户端 | 特色说明 | 图文教程 |
 | :--- | :--- | :---: |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-party-icon.png" width="24"/> **Clash Party** | iOS 平台优秀的 Clash 客户端，界面友好，配置简单，支持多种订阅格式 | [查看教程](https://clashmac.vip/2026/03/29/clash-party-tutorial/) |
+| **Clash Party** | iOS 平台优秀的 Clash 客户端，界面友好，配置简单，支持多种订阅格式 | [查看教程](https://clashmac.vip/2026/03/29/clash-party-tutorial/) |
 
 ### 🤖 Android 客户端
 
 | 客户端 | 特色说明 | 图文教程 |
 | :--- | :--- | :---: |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-meta-icon.png" width="24"/> **Clash Meta (Android)** | Android 平台主流 Clash 客户端，基于 Meta 内核，功能强大，规则灵活 | [查看教程](https://clashmac.vip/2026/03/29/clash-meta-android-tutorial/) |
+| **Clash Meta (Android)** | Android 平台主流 Clash 客户端，基于 Meta 内核，功能强大，规则灵活 | [查看教程](https://clashmac.vip/2026/03/29/clash-meta-android-tutorial/) |
 
 > 💡 **提示**: 所有教程均包含详细的下载链接、安装步骤、订阅配置和常见问题解决方案
 
