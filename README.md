@@ -52,11 +52,11 @@
 | :--- | :--- | :---: |
 | <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-party-icon.png" width="24"/> **Clash Party** | iOS 平台优秀的 Clash 客户端，界面友好，配置简单，支持多种订阅格式 | [查看教程](https://clashmac.vip/2026/03/29/clash-party-tutorial/) |
 
-### 🤖 安卓客户端
+### 🤖 Android 客户端
 
 | 客户端 | 特色说明 | 图文教程 |
 | :--- | :--- | :---: |
-| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-meta-icon.png" width="24"/> **Clash Meta 安卓版** | 安卓平台主流 Clash 客户端，基于 Meta 内核，功能强大，规则灵活 | [查看教程](https://clashmac.vip/2026/03/29/clash-meta-android-tutorial/) |
+| <img src="https://clashmac.vip/wp-content/uploads/2026/03/clash-meta-icon.png" width="24"/> **Clash Meta (Android)** | Android 平台主流 Clash 客户端，基于 Meta 内核，功能强大，规则灵活 | [查看教程](https://clashmac.vip/2026/03/29/clash-meta-android-tutorial/) |
 
 > 💡 **提示**: 所有教程均包含详细的下载链接、安装步骤、订阅配置和常见问题解决方案
 
