@@ -16,16 +16,16 @@
 
 ## 🚀 核心仓库导航
 
-| 仓库名称 | 描述 | Stars | 技术栈 |
+| 仓库名称 | 内容特色与优势 | 来源 | Stars |
 | :--- | :--- | :---: | :---: |
-| 🌟 **[VPN-2026](https://github.com/jilianyun090-hue/VPN-2026)** | 2026高速稳定机场推荐与科学上网翻墙机场评测指南。高口碑性价比便宜机场推荐，完美替代经典VPN。全节点解锁流媒体（Netflix/TikTok运营机场），专线节点直连提供游戏加速及4K超清体验 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/VPN-2026?style=social) | JavaScript |
-| ⚡ **[free-nodes](https://github.com/jilianyun090-hue/free-nodes)** | 每日免费节点测速与整理（支持 Clash / Shadowrocket 订阅导入） | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/free-nodes?style=social) | JavaScript |
-| 🏠 **[clashmac.vip](https://github.com/jilianyun090-hue/clashmac.vip)** | Clash Mac 官网与下载指南 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clashmac.vip?style=social) | HTML |
-| 📱 **[clash-jichang](https://github.com/jilianyun090-hue/clash-jichang)** | Clash 机场主站项目 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-jichang?style=social) | JavaScript |
-| 🎯 **[jichangdaquan](https://github.com/jilianyun090-hue/jichangdaquan)** | 机场大全聚合站点 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/jichangdaquan?style=social) | Astro |
-| 🔧 **[tizibest](https://github.com/jilianyun090-hue/tizibest)** | 梯子测评与推荐 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tizibest?style=social) | HTML |
-| 💻 **[clash-vpns.my](https://github.com/jilianyun090-hue/clash-vpns.my)** | Clash VPN 资源站 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-vpns.my?style=social) | HTML |
-| 📊 **[tuijichang](https://github.com/jilianyun090-hue/tuijichang)** | 推荐机场列表 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tuijichang?style=social) | HTML |
+| 🌟 **[VPN-2026](https://github.com/jilianyun090-hue/VPN-2026)** | 2026 机场推荐清单老牌 / 性价比 / 稳定 / 高端四类整理套餐价格、优惠码、实际全测和已跑路站点同步 | 机场查 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/VPN-2026?style=social) |
+| ⚡ **[free-nodes](https://github.com/jilianyun090-hue/free-nodes)** | 每日免费节点每天 0 点自动更新 Clash / v2ray / 小火箭订阅一键导入 | 机场查 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/free-nodes?style=social) |
+| 🏠 **[clashmac.vip](https://github.com/jilianyun090-hue/clashmac.vip)** | Clash Mac 客户端下载指南、使用教程、配置文件导入详解 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clashmac.vip?style=social) |
+| 📱 **[clash-jichang](https://github.com/jilianyun090-hue/clash-jichang)** | 星岛梦机场怎么样套餐价格、节点测速、解锁与线路评测 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-jichang?style=social) |
+| 🎯 **[jichangdaquan](https://github.com/jilianyun090-hue/jichangdaquan)** | 全网最全的机场客户端收集 / 下载 / 图文教程 / 客户端科普与快讯 90 多款按平台分类每日同步 | 机场探 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/jichangdaquan?style=social) |
+| 🔧 **[tizibest](https://github.com/jilianyun090-hue/tizibest)** | 翻墙科普攻略原理、线路、故障排查、速坏与 AI 工具每日同步栏目 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tizibest?style=social) |
+| 💻 **[clash-vpns.my](https://github.com/jilianyun090-hue/clash-vpns.my)** | 全网最全最新的机场跑路预警名单每日更新下单前先查这家是否跑路 | 机场中文网 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/clash-vpns.my?style=social) |
+| 📊 **[tuijichang](https://github.com/jilianyun090-hue/tuijichang)** | 机场科普与快讯机场杂谈、协议与内核科普、客户端版本动态每日同步 | 机场帮 + 机场探 | ![Stars](https://img.shields.io/github/stars/jilianyun090-hue/tuijichang?style=social) |
 
 ---
 
